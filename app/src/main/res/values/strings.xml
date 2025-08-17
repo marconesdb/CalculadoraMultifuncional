@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">Seja Bem Vindo ao Nosso App</string>
+    <string name="entrar">Calculadora</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="somar_numeros">Somar números</string>
+    <string name="subtrair_numeros">Subtrair números</string>
+    <string name="multiplicar_numeros">Multiplicar números</string>
+    <string name="dividir_numeros">Dividir números</string>
+    <string name="viagem">Viagem</string>
+    <string name="resultado_aparecer_aqui" />
+    <string name="calcular">Calcular</string>
+    <string name="m_dia_km_l">Média km/l</string>
+    <string name="valor_do_litro_r">Valor do litro (R$)</string>
+    <string name="dist_ncia_km">Distância (km)</string>
+    <string name="msg_erro_campos">Por favor, preencha todos os campos corretamente.</string>
+    <string name="cadastro_de_viagem">Cadastro de Viagem</string>
+    <string name="destino">Destino</string>
+    <string name="data_da_viagem">Data da Viagem</string>
+    <string name="or_amento_r">Orçamento (R$)</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="voltar">Voltar</string>
+
+</resources>
