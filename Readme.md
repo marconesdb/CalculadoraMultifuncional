@@ -45,13 +45,13 @@ git clone https://github.com/marconesdb/CalculadoraMultifuncional.git
 
 O app possui várias atividades, cada uma com uma função específica:
 
-### 🏠 Tela Inicial (`HomeActivity`)
+### 🏠 Tela Inicial (`MainActivity`)
 - Interface de boas-vindas com botões para acessar os diferentes modos de cálculo.
 - ![Tela Inicial](imagens/home.png)
 
 ---
 
-### ➗ Tela de Cálculo Simples (`MainActivity`)
+### ➗ Tela de Cálculo Simples (`HomeActivity/activity_calcula`)
 - Realiza operações matemáticas básicas.
 - Campos para inserir números e escolher a operação.
 - ![Tela de Cálculo](imagens/calculo1.png)
@@ -65,7 +65,7 @@ O app possui várias atividades, cada uma com uma função específica:
 
 ---
 400
-### 📊 Tela de Cálculo de Consumo (`CalculaActivity`)
+### 📊 Tela de Cálculo de Consumo (`ViagemActivity`)
 - Calcula o consumo médio com base em distância percorrida e combustível utilizado.
 - ![Tela de Consumo](imagens/consumo.png)
 
